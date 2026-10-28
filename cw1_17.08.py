@@ -1,4 +1,5 @@
 print("Hello \\from me")
 print("Hello\nfrom \tme")
 print(42)
-print(42)
+input(0)
+print("Hello \\from me")
